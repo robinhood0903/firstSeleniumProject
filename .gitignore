@@ -1,0 +1,66 @@
+/target/
+# IntelliJ IDEA
+.idea/
+
+# Compiled files
+*.class
+*.war
+*.ear
+*.iml
+*.log
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Visual Studio Code
+.vscode/
+
+# Maven Wrapper
+.mvn/wrapper/
+
+# Test report files
+test-output/
+
+# ChromeDriver and GeckoDriver executables
+chromedriver
+geckodriver
+
+# Selenium Grid files
+hubConfig.json
+nodeConfig.json
+
+.metadata/
+Drivers/
